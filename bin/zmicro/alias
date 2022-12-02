@@ -5,11 +5,11 @@ help() {
   echo "  zmicro v2ray <args ...>"
   echo ""
 
-  v2ray --help
+  v2ray help
 }
 
 version() {
-  v2ray --version
+  v2ray version
 }
 
 core() {
